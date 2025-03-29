@@ -1,0 +1,25 @@
+# Libraries and Files Imported for MelodyForge Project
+
+## Standard Python Libraries
+- os
+
+## External Libraries
+- tkinter (as tk)
+- tkinter.ttk (as ttk)
+- tkinter.filedialog (as filedialog)
+- music21.stream (as stream)
+- music21.note (as note)
+- music21.midi (as midi)
+- music21.tempo (as tempo)
+- music21.chord (as chord)
+- music21.converter (as converter)
+- music21.key (as key)
+- music21.pitch (as pitch)
+- music21.percussion (as percussion)
+- librosa
+- random
+
+## Notes
+- No additional external files are imported beyond the standard library and external modules listed above.
+- All functionality is contained within the single script `melodyforge_final.py`.
+- External libraries (e.g., music21, librosa) require installation via pip as noted in the setup instructions.
